@@ -1,0 +1,12 @@
+# Environment and local configurations
+.env
+.env.local
+*.log
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
